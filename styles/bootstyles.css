@@ -1,0 +1,50 @@
+/* body {
+    
+    background-color: #cccccc;
+   } */
+
+.common{
+    text-align: center;
+    position: static;
+}
+
+.header{
+    height: 100px;
+    background-color:cadetblue;
+    line-height: 30px; /* lineheight will make word associated with the height of the text-this will put the words in the middle of the div*/
+}
+
+.mainbody{
+    /* background-color: burlywood; */
+    background-image: url("../images/TableauBackground.jpg");
+    right: 50px;
+    left: 50px;
+}
+
+.footer{
+    height: 60px;
+    background-color:chocolate;
+    color: beige;
+    line-height: 20px;
+}
+
+img{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color: cornflowerblue;
+}
+
+a{
+    color:bisque;
+}
+
+p{
+    font-size: 17px;
+    color:darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
